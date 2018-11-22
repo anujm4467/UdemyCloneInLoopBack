@@ -5,7 +5,7 @@
     "url": "mongodb://localhost:27017/udemy",
     "database": "udemy",
     "password": "",
-    "name": "udemy",
+    "name": "db",
     "user": "",
     "connector": "mongodb"
   }
